@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+
+.app-brand{
+  color: #fff;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+.app-btn{
+  background-color: #2B83EA;
+  color: #fff;
+}
+
+.app-blue{
+  color: #2B83EA;
+}
+
+.min-h{
+  min-height: 100vh;
+}
+
+.app-dark-bg{
+  background-color: #23304c;
+}
+
+.font-white{
+  color:#fff !important;
+  list-style: none !important;
+}
+.font-grey{
+  color: #4c5565da;
+}
+
+.f-600{
+  font-weight: 600;
+}
+
+.f-900{
+  font-weight: 900;
+}
+
+.white-bg{
+  background-color: #fff;
+}
+
+.f-1{
+  font-size: 14px !important;
+}
+
+.f-2{
+  font-size: 16px !important;
+}
+
+.f-3{
+  font-size: 26px !important;
+}
+
+.f-4{
+  font-size: 12px!important;
+}
+
+.b_size{
+  height: 70px;
+}
+
+.app-contact{
+  color: black !important;
+  width: fit-content;
+  border-bottom: black 1px solid;
+}
+
+.form-shadow{
+  box-shadow: 5px 0px 50px rgba(0, 0, 0, 0.1);
+}
+
+.text-input{
+  border: none;
+  display: flex;
+  border-bottom: 1.5px rgb(121, 121, 121) solid;
+}
+input:focus{
+  outline: none;
+}
+
+input{
+  border: none;
+}
+.pointer{
+  cursor: pointer;
+}
+
+.app-trans{
+  transform: translateY(14px);
+}
